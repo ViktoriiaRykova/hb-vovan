@@ -1,0 +1,118 @@
+/* Number section */
+.first{
+    background-image: url(../hb-vovan/img/bg_dark.jpg);
+    height: 500px;
+}
+.second{
+    background-image:url(../hb-vovan/img/bg_light2.jpg);
+    height: 600px;
+ }
+.third{
+    background-image: url(../hb-vovan/img/bg_dark1.jpg);
+}
+.fourth{
+    background-image: url(../hb-vovan/img/bg_light3.jpg);
+    height: 600px;
+}
+.five{
+    background-image: url(../hb-vovan/img/bg_light5.jpg);
+    height: 600px;
+}
+/* Img */
+.horizontal_img{
+    width: 600px;
+    height: 400px;
+    margin-top: 100px;
+    border-left: rgb(199, 199, 199) 3px solid;
+    padding-left: 50px;
+}
+.vertical_img{
+    width: 550px;
+    height: 600px;
+    padding-right: 100px;
+    margin-left: 50px;
+}
+
+.trio_1, 
+.trio_2{
+    width: 350px;
+    height: 500px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    margin-left: 40px;
+}
+/* .trio_2{
+    display: none;  
+} */
+.congratulations{
+    border: 5px rgb(199, 199, 199) solid;
+    color:  rgb(199, 199, 199);
+    font-family: 'Jost', sans-serif;
+    font-size: 24px;
+    padding: 70px;
+    margin-top: 180px;
+}
+.mini{
+    border: 5px  rgb(1, 125, 141) solid;
+    color:  rgb(1, 125, 141);
+    font-family: 'Jost', sans-serif;
+    font-size: 24px;
+    padding: 30px;
+    text-align: center;
+    margin-top: -20px;
+}
+.mydila{
+    color:   rgb(1, 125, 141);
+    font-family: 'Jost', sans-serif;
+    font-size: 24px;
+    padding: 60px;
+    margin-top: 180px;
+}
+/* Block section */
+.block_1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(75, 74, 74);
+    margin-left: 3px;
+   }
+.block_2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(75, 74, 74);
+    margin-left: 103px;
+   }
+.block_3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(75, 74, 74);
+    margin-left: 203px;
+   }
+.section_2{
+    margin-left: -130px;
+}
+.block_4{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(75, 74, 74);
+    margin-left: 253px;
+    margin-top: 50px;
+}
+.block_5{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    top: -40px;
+    left: 313px;
+    background-color: rgb(1, 125, 141);
+}
+/* Forecast section */
+#forecast{
+    background-color: black;
+    border: none;
+    outline: none;
+    font-family: 'Bison bold';
+    font-size: 70px;
+    margin: 250px 500px;
+    color: #03748c;
+    width: 400px;
+}
